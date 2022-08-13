@@ -7,13 +7,13 @@
     "description": "Browser extention for LisAmp",
   
     "icons": {
-      "48": "lisamp-48px.png"
+      "48": "icons/lisamp-48px.png"
     },
   
     "content_scripts": [
       {
         "matches": ["*://*.mozilla.org/*"],
-        "js": ["test.js"]
+        "js": ["JavaScript/test.js"]
       }
     ]
   
