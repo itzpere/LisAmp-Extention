@@ -1,0 +1,19 @@
+{
+  "name": "lisamp-extention",
+  "version": "0.0.1",
+  "description": "Browser extention for LisAmp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itzpere/LisAmp-Extention.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itzpere/LisAmp-Extention/issues"
+  },
+  "homepage": "https://github.com/itzpere/LisAmp-Extention#readme"
+}
